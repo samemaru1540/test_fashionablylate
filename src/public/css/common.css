@@ -1,0 +1,23 @@
+.header {
+  background: #ffffff;
+  width: 100%;
+}
+
+.header__inner {
+  margin: 0 auto;
+  border-bottom: 1px solid #8d7969;
+  width: 100%;
+  max-width: 1230px;
+}
+
+.header__logo {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  color: #8d7969;
+  text-decoration: none;
+  font-size: 40px;
+  font-family: "Inika", serif;
+  font-weight: 400;
+  font-style: normal;
+}
